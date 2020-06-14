@@ -267,7 +267,7 @@ justify-content: flex-start | flex-end | center | sapce-between | space-around
 
 **注意区别flex-direction：row-reserve  和  justify-content：flex-end**
 
-flex-direction：row-reserve指的是决定主轴的方向，起点在右端，而justify-content： flex 值得是子元素相对于主轴的对齐方式：flex-end为右对齐（主轴为row时）
+flex-direction：row-reserve指的是决定主轴的方向，起点在右端，而justify-content： flex 指的是子元素相对于主轴的对齐方式：flex-end为右对齐（主轴为row时）
 
 ## align-item
 
